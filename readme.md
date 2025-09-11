@@ -27,3 +27,8 @@ Auto correction / Auto improvement
 
 ## Local Files Access after you approve
 [![Local Files Access after your approve](https://img.youtube.com/vi/0xnJgbqJZnc/0.jpg)](https://www.youtube.com/watch?v=0xnJgbqJZnc)
+
+
+## Polyglot (Python, R, and JavaScript) support
+[![Local Files Access after your approve](https://img.youtube.com/vi/JTSUgZ0Brkk/0.jpg)]([https://www.youtube.com/watch?v=JTSUgZ0Brkk)
+
